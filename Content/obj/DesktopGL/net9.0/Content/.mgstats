@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/daganspano/Documents/GithubRepos/Basic_3D_Rendering_Exercise/Content/monogame-logo.png","/home/daganspano/Documents/GithubRepos/Basic_3D_Rendering_Exercise/Content/bin/DesktopGL/Content/monogame-logo.xnb","TextureProcessor","Texture2DContent",89935,988085,0.1608941
